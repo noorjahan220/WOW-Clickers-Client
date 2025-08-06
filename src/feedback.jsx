@@ -1,4 +1,4 @@
-// components/Feedback.jsx
+
 import React from "react";
 import Slider from "react-slick";
 import { Quote, Star } from "lucide-react";

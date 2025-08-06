@@ -1,7 +1,8 @@
 import React from 'react';
 import About from './About';
-import TestimonialsCarousel from './feedback';
+
 import Feedback from './feedback';
+import NewAd from './Component/NewAd';
 
 const Home = () => {
     return (
@@ -9,6 +10,7 @@ const Home = () => {
             
             <About/>
             <Feedback/>
+            <NewAd/>
         </div>
     );
 };
