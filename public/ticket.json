@@ -1,0 +1,57 @@
+[
+  {
+    "id": "TCKT001",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "subject": "Issue with login",
+    "message": "I cannot log in to my account since yesterday.",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-01T10:15:00Z",
+    "updatedAt": "2025-08-02T09:30:00Z"
+  },
+  {
+    "id": "TCKT002",
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "subject": "Payment not processed",
+    "message": "My recent payment did not go through but money was deducted.",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-07-30T14:45:00Z",
+    "updatedAt": "2025-08-01T08:20:00Z"
+  },
+  {
+    "id": "TCKT003",
+    "name": "Carol Lee",
+    "email": "carol.lee@example.com",
+    "subject": "Feature request: Dark mode",
+    "message": "It would be great to have a dark mode option on the site.",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-07-25T09:00:00Z",
+    "updatedAt": "2025-07-27T12:00:00Z"
+  },
+  {
+    "id": "TCKT004",
+    "name": "David Kim",
+    "email": "david.kim@example.com",
+    "subject": "Bug: Page crashes on submit",
+    "message": "The contact form crashes when I hit submit with attachments.",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-03T11:20:00Z",
+    "updatedAt": "2025-08-03T11:20:00Z"
+  },
+  {
+    "id": "TCKT005",
+    "name": "Eva Green",
+    "email": "eva.green@example.com",
+    "subject": "Unable to reset password",
+    "message": "Password reset link expired immediately after I received it.",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-07-29T16:50:00Z",
+    "updatedAt": "2025-07-31T10:10:00Z"
+  }
+]
