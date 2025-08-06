@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Noorjahan Akter Meem",
+    "email": "noorjahanmeem220@gmail.com",
+    "subject": "Need a logo design",
+    "priority": "High",
+    "message": "Looking for a minimalist logo for my business.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "subject": "Social media handler needed",
+    "priority": "Medium",
+    "message": "Looking for someone to manage my Instagram account.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Sarah Lee",
+    "email": "sarah@example.com",
+    "subject": "Content Writer Needed",
+    "priority": "Low",
+    "message": "Need weekly blog posts for tech site.",
+    "image": "https://via.placeholder.com/150"
+  }
+]

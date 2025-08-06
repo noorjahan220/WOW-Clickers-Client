@@ -3,6 +3,7 @@ import About from './About';
 
 import Feedback from './feedback';
 import NewAd from './Component/NewAd';
+import AdList from './Component/AdList';
 
 const Home = () => {
     return (
@@ -11,6 +12,7 @@ const Home = () => {
             <About/>
             <Feedback/>
             <NewAd/>
+            <AdList/>
         </div>
     );
 };
