@@ -12,6 +12,9 @@ import BlogSection from './Component/BlogSection';
 import CTASection from './Component/CTASection';
 import ClientReviews from './Component/ClientReviews';
 import WhyChooseUs from './Component/WhyChooseUs';
+import CarefulWork from './Component/CarefulWork';
+import ImportantServices from './Component/ImportantServices';
+import RecentPost from './Component/RecentPost';
 
 const Home = () => {
     return (
@@ -30,6 +33,10 @@ const Home = () => {
             <CTASection/>
             <ClientReviews/>
             <WhyChooseUs/>
+            {/* new */}
+            <CarefulWork/>
+            <ImportantServices/>
+            <RecentPost/>
         </div>
     );
 };
