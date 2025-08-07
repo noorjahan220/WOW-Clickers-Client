@@ -6,6 +6,12 @@ import NewAd from './Component/NewAd';
 import AdList from './Component/AdList';
 import NewTicketForm from './Component/NewTicketForm';
 import TicketHistory from './Component/TicketHistory';
+import TrustPartner from './Component/TrustPartners';
+import FAQSection from './Component/F&Q';
+import BlogSection from './Component/BlogSection';
+import CTASection from './Component/CTASection';
+import ClientReviews from './Component/ClientReviews';
+import WhyChooseUs from './Component/WhyChooseUs';
 
 const Home = () => {
     return (
@@ -17,6 +23,13 @@ const Home = () => {
             <AdList/>
             <NewTicketForm/>
             <TicketHistory/>
+            {/* New Home page sections */}
+            <TrustPartner/>
+            <FAQSection/>
+            <BlogSection/>
+            <CTASection/>
+            <ClientReviews/>
+            <WhyChooseUs/>
         </div>
     );
 };
