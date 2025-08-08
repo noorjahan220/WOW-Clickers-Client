@@ -15,6 +15,7 @@ import WhyChooseUs from './Component/WhyChooseUs';
 import CarefulWork from './Component/CarefulWork';
 import ImportantServices from './Component/ImportantServices';
 import RecentPost from './Component/RecentPost';
+import ContactPage from './Component/ContactPage';
 
 const Home = () => {
     return (
@@ -37,6 +38,7 @@ const Home = () => {
             <CarefulWork/>
             <ImportantServices/>
             <RecentPost/>
+            <ContactPage/>
         </div>
     );
 };
